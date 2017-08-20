@@ -1,0 +1,12 @@
+[user]
+	name = Krown0s
+	email = chronoos89@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[alias]
+	st = status
+	ck = checkout
+	br = branch
+	cmt = commit

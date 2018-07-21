@@ -2,4 +2,4 @@
 
 Personal dotfiles
 
-![alt text](000.png?raw=true "Appearance")
+![alt text](config.png?raw=true "Appearance")
